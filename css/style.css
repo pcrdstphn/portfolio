@@ -1,0 +1,38 @@
+body {
+	background-color: #96A;
+	font-family: 'Laila', serif;
+	font-size: 48px;
+}
+
+h1, 
+h2, 
+h3 {
+	font-weight: bold;
+	color: #FFF;
+}
+
+.jumbotron {
+	background-image: url(../images/garden.jpg);
+	text-align: center;
+}
+
+.greeting {
+	color: #96A;
+}
+
+p {
+	font-size: 24px;
+	color: #000;
+}
+
+.title-logo {
+	padding: 10px;
+	height: 150px;
+}
+
+a {
+	font-size: 16px;
+	color: #029;
+}
+
+
