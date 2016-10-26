@@ -1,6 +1,6 @@
 body {
 	background-color: #96A;
-	font-family: 'Laila', serif;
+	font-family: "Laila", serif;
 	font-size: 48px;
 }
 
@@ -35,4 +35,8 @@ a {
 	color: #029;
 }
 
-
+.w3c-logo {
+	border:0;
+	width:88px;
+	height:31px;
+}
